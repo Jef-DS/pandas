@@ -1,0 +1,5 @@
+examens/
+.venv/
+.ipynb_checkpoints/
+
+*.csv
